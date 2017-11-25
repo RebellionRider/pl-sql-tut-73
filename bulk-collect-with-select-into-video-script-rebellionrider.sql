@@ -2,7 +2,7 @@
 	Script from PL/SQL tutorial 73 on Bulk Collect with SELECT-INTO clause in Oracle DATABASE
 	Creator: Manish Sharma
 	Website: www.RebellionRider.com
-		Fast way to reach Manish Sharma
+		Fastest way to reach Manish Sharma
 	Twitter: @RebellionRider
 	Facebook:@TheRebellionRider
 	Instagram: @RebellionRider
